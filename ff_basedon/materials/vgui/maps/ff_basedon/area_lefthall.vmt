@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/maps/ff_basedon/area_lefthall"
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1"
+}

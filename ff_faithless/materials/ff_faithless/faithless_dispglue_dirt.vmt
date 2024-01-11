@@ -1,0 +1,13 @@
+WorldVertexTransition
+{
+	"%keywords" "FF, faithless"
+
+	"$basetexture2" "ff/ff_ground_dirt01_dark"
+	"$basetexture" "ff/ff_ground_dirt02"
+
+	"$blendmodulatetexture" "hat_trick/blendmodtest_001"
+
+	"$decal" "1"
+	"$vertexalpha" "1"
+	"$vertexcolor" "1" 
+}

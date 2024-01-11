@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/maps/ff_basedon/area_middleroom"
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1"
+}

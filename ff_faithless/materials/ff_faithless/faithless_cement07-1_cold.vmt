@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"%keywords" "FF,faithless"
+
+	"$basetexture" "ff/ff_wall_cement07-1_darker"
+	"$color" "[0.85 0.9 1]"
+
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/maps/ff_basedon/area_waterroom"
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1"
+}
