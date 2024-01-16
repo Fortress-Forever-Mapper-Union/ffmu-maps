@@ -1,0 +1,11 @@
+ff_highvoltage
+
+ALPHA 1
+
+Yellow vs. Blue
+Capture the enemy flag
+Each team's "Voltage" can be activated by the switch in ramp room. Any team can use the switch.
+Once activated, a "Voltage" will kill anyone inside for 7.5 seconds, then be on cooldown for 20 seconds.
+
+ff map by shurbrrt aka mac_II
+original tfc map by Ruger
