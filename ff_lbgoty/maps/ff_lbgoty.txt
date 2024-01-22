@@ -1,0 +1,11 @@
+       LAMBDA - BUNKER
+-- GAME OF THE YEAR EDITION --
+
+4 gamemodes in 1 map! Send "vote" in chat to change the gamemode (requires minimum 4 players to be playing)
+
+----
+
+Original map made by VALVe
+FF port made by DarthMan (/profiles/76561198043180408)
+GOTY edition made by mv (/profiles/76561198365094872)
+Code published under ISC license on the Fortress Forever Mapper's Union GitHub organization
