@@ -10,7 +10,6 @@ BLASTJUMP_DAMAGE = 0 -- multiplier for self damage
 ENABLE_PICKUPS = false -- enable spawning items mid match
 DELAY_PICKUPS = 70 -- in seconds, time to withhold pickups from spawning
 
-ENABLE_PICKUPS = true -- enable spawning items mid match
 ENABLE_VAMPIRE = false -- players gain health back on kill
 VAMPIRE_HEALTH = 30 -- points of health to give when vampirism is enabled
 
