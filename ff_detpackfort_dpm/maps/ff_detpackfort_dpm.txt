@@ -1,4 +1,0 @@
-FF_DETPACKFORT_DPM
-Made by Average
-
-A variant of ff_blockfort made for the gametype "Detpackmania", a TDM gamemode where players only have a pelletgun and an infinite supply of detpacks

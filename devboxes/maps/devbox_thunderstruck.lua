@@ -1,1 +1,0 @@
-IncludeScript( "base_arena" )

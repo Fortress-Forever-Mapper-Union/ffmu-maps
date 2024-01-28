@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/maps/ff_basedon/area_righthall"
-	"$alphatest" "1"
-	"$allowalphatocoverage" "1"
-}

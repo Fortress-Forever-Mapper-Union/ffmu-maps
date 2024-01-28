@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/maps/ff_basedon/rpos_middle"
-	"$alphatest" "1"
-	"$allowalphatocoverage" "1"
-}
