@@ -46,3 +46,14 @@ bigpack = optionalbackpack:new({
 	materializesound = "Item.Materialize",	
 	touchsound = "ArmorKit.Touch"
 })
+
+
+----====---- extra spawnpoints
+-- porting this from base_arena for safety cause servers may not have mode updated
+agnosticallowedmethod = function(self,player) return player:GetTeamId() ~= Team.kSpectator end
+spectatorallowedmethod = function(self,player) return player:GetTeamId() == Team.kSpectator end
+
+agnosticspawn = { validspawn = agnosticallowedmethod }
+spectatorspawn = { validspawn = spectatorallowedmethod }
+
+agnostic_spawn = agnosticspawn; spectator_spawn = spectatorspawn
