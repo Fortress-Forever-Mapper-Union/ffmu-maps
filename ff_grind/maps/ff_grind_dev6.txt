@@ -9,4 +9,5 @@ Join the FF Discord!! - https://discord.gg/F5SsmKAnqn
 Created by Average
 Inspired by the Cybergrind in ULTRAKILL
 Uses Skybox from ff_vidars
+Uses train sound from Neotokyo by Studio RADI-8
 -----------------------------------------------

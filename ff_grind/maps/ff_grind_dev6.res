@@ -1,11 +1,11 @@
 "resources"
 {
-"maps/ff_grind_dev4.lua" "file"
-"maps/ff_grind_dev4.txt" "file"
-"maps/ff_grind_dev4.bsp" "file"
-"maps/ff_grind_dev4.res" "file"
-"materials/vgui/loadingscreens/ff_grind_dev4.vmt" "file"
-"materials/vgui/loadingscreens/ff_grind_dev4.vtf" "file"
+"maps/ff_grind_dev6.lua" "file"
+"maps/ff_grind_dev6.txt" "file"
+"maps/ff_grind_dev6.bsp" "file"
+"maps/ff_grind_dev6.res" "file"
+"materials/vgui/loadingscreens/ff_grind_dev6.vmt" "file"
+"materials/vgui/loadingscreens/ff_grind_dev6.vtf" "file"
 "materials/skybox/frozenbk.vmt" "file"
 "materials/skybox/frozendn.vmt" "file"
 "materials/skybox/frozenft.vmt" "file"
@@ -20,4 +20,5 @@
 "materials/skybox/frozenup.vtf" "file"
 "materials/ff_grind/suspicious.vtf" "file"
 "materials/ff_grind/suspicious.vmt" "file"
+"sound/ff_grind/nt_seikan_vip_outdoor_loop.wav" "file"
 }
