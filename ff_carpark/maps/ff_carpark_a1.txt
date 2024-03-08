@@ -1,0 +1,25 @@
+Urban Open Arena -- Carpark
+
+(by no means a realistic carpark (an unreal carpark if you will))
+
+
+
+Soldier arena / Clan arena map
+Yellow v Green
+
+Kill entire enemy team to end the round & score
+10 points per round
+
+
+
+(this is server dependent, but by default)
+Increased self knockback
+Zero self damage
+Increased running speed
+Decreased ground friction
+Unaltered gravity
+
+
+
+made by Soap Breaker
+Open source at https://github.com/Fortress-Forever-Mapper-Union/ffmu-maps/
