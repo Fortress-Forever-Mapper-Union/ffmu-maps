@@ -22,7 +22,7 @@ DAMAGE_TABLE = {
 
 TEAM_LIMITS = { bl = -1, rd = -1, yl = 0, gr = 0 }
 
-smallpack_return = 50
+smallpack_return = 40
 bigpack_return = 90
 
 smallpack = optionalbackpack:new({
