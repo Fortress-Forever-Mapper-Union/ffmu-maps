@@ -6,6 +6,5 @@
 ----
 
 Original map made by VALVe
-FF port made by DarthMan (/profiles/76561198043180408)
 GOTY edition made by mv (/profiles/76561198365094872)
 Code published under ISC license on the Fortress Forever Mapper's Union GitHub organization
